@@ -1,0 +1,22 @@
+h1{
+    font: bold;
+    color: plum;
+    text-align: center;
+}
+h2{
+    font-family: italic;
+    font: bold;
+}
+p{
+    font-size: 22px;
+    font: bold;
+    color: blue;
+}
+h3{
+    color: plum;
+    font: bold;
+}
+ul{
+    color: blueviolet;
+    padding: 10px;
+}
