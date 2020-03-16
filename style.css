@@ -6,6 +6,8 @@ h1{
 h2{
     font-family: italic;
     font: bold;
+    color: plum;
+    font-size: 30;
 }
 p{
     font-size: 22px;
