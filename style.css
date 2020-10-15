@@ -1,3 +1,7 @@
+body{
+    background: url("https://cdn.pixabay.com/photo/2016/11/13/21/48/doubt-1822144_960_720.jpg") no-repeat;
+    background-size: cover;
+}
 h1{
     font: bold;
     color: plum;
